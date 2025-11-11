@@ -285,6 +285,7 @@ else:
         - Auto-generate chat titles
         - View source documents for answers
     """)
+print("Testing commit")
 
 if __name__ == '__main__':
     # The main app logic is already handled in the initialization and UI sections above
